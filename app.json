@@ -56,7 +56,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رابط السورس عربي : Telethon-Ar  رابط الاجنبي او : Telethon-En",
+      "description": "رابط السورس عربي : Telethon-Ar  ",
       "value": "Telethon-Ar",
       "required": false
     }
