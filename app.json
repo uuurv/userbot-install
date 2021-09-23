@@ -1,13 +1,13 @@
 {
   "name": "تليثون العرب",
-  "description": "اهلا بك في تنصيب تليثون العرب لمتابعه قناتنا : https://t.me/M4_STORY ",
+  "description": "اهلا بك في تنصيب تليثون العرب لمتابعه قناتنا : https://t.me/iqthon ",
   "logo": "https://telegra.ph/file/25917eb62d664deffa22b.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethontesthelp/telethon-Ar-pack/",
+  "repository": "https://github.com/telethon-Arab/teletho-help/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
