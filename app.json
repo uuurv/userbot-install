@@ -11,53 +11,29 @@
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
-    "ALIVE_NAME": {
-      "description": "اكتب اسمك⁦",
-      "value": "⁦⁦"
-    },
     "APP_ID": {
-      "description": "اكتب هنا الايبي ايدي",
+      "description": "الايبي ايدي",
       "value": ""
     },
     "API_HASH": {
-      "description": "اكتب هنا ألايبي هاش",
+      "description": "ألايبي هاش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "ضع هنا كود تيرمكس",
+      "description": "كود تيرمكس",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": "ضع هنا معرف البوت بدون @",
+      "description": "معرف البوت",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "ضع هنا توكن البوت الخاص بك",
+      "description": "توكن البوت",
       "value": ""
     },
-    "ENV": {
-      "description": "اتركه كما هوه",
-      "value": "ANYTHING",
-      "required": false
-    },
-    "HEROKU_API_KEY": {
-      "description": "ضع كود هيروكوان لم تعرفها يوجد هنا شرحها https://t.me/teamtelethon/14",
-      "value": "",
-      "required": false
-    },
-    "HEROKU_APP_NAME": {
-      "description": "ضع نفس ماكتبت في ال App name اول صفحه",
-      "value": "",
-      "required": false
-      },
-      "TZ": {
-      "description": "موقعك الحالي فقط امسح كلمه بغداد وحط عاصمه بلدك فقط",
+    "TZ": {
+      "description": "موقعك الحالي",
       "value": "Asia/Baghdad",
-      "required": false
-    },
-    "UPSTREAM_REPO": {
-      "description": "رابط السورس عربي : Telethon-Ar  ",
-      "value": "Telethon-Ar",
       "required": false
     }
   },
