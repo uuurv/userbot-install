@@ -32,7 +32,7 @@
       "value": ""
     },
     "TZ": {
-      "description": "موقعك الحالي",
+      "description": "الوقت",
       "value": "Asia/Baghdad",
       "required": false
     }
