@@ -1,4 +1,4 @@
-FROM klanrali/Telethon-Arab:alpine
+FROM klanrali/Telethon-Arab:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/telethon-Arab/telethonNow.git /root/userbot
