@@ -11,8 +11,12 @@
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
+    "ALIVE_NAME": {
+      "description": "اسمك الي بتليجرام",
+      "value": ""
+    },
     "APP_ID": {
-      "description": "الايبي ايدي",
+      "description": "ايبي ايدي",
       "value": ""
     },
     "API_HASH": {
