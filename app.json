@@ -1,13 +1,13 @@
 {
-  "name": "zatlin497",
-  "description": "اهلا بك في تنصيب zatlin497 ",
+  "name": "تليثون العرب",
+  "description": "اهلا بك في تنصيب تليثون الجديد لمتابعه قناتنا : https://t.me/iqthon ",
   "logo": "https://telegra.ph/file/b78a7fec429a67dd36004.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/zatlin497/zatlinhelp/",
+  "repository": "https://github.com/telethon-Arab/teletho-help/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -34,6 +34,21 @@
     "TG_BOT_TOKEN": {
       "description": "توكن البوت",
       "value": ""
+    },
+    "DIGITAL_PIC": {
+      "description": "لوضـع فار صـوره الوقتيـة قم بوضع رابط صورتك ( عزيزي اذا ماتعرفه تركه فارغ )",
+      "value": "",
+      "required": false
+    },
+    "MAX_FLOOD_IN_PMS": {
+      "description": "لتغييـر  الـتحذيـرات رساله الحماية قم بوضع عدد الـتحذيـرات  ( عزيزي اذا ماتعرفه تركه فارغ )",
+      "value": "",
+      "required": false
+    },
+    "DEFAULT_BIO": {
+      "description": "لـوضع كليـشه نبـذه وقتـية ضع جملتك   ( عزيزي اذا ماتعرفه تركه فارغ )",
+      "value": "",
+      "required": false
     },
     "TZ": {
       "description": "الوقت",
